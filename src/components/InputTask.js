@@ -101,6 +101,7 @@ export default function InputTask(props) {
                     >
 
                     </Select>
+                    <p>Modificando el proyecto</p>
                     <Button type="submit" color="violet" onClick={onSubmitTask}> Anadir tarea</Button>
 
                 </Input>
